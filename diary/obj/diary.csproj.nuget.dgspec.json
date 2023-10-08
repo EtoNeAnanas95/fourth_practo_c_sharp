@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eto_Ne_Ananas95\\source\\repos\\diary\\diary\\diary.csproj": {}
+    "C:\\Users\\1\\source\\repos\\fourth_practo_c_sharp\\diary\\diary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eto_Ne_Ananas95\\source\\repos\\diary\\diary\\diary.csproj": {
+    "C:\\Users\\1\\source\\repos\\fourth_practo_c_sharp\\diary\\diary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eto_Ne_Ananas95\\source\\repos\\diary\\diary\\diary.csproj",
+        "projectUniqueName": "C:\\Users\\1\\source\\repos\\fourth_practo_c_sharp\\diary\\diary.csproj",
         "projectName": "diary",
-        "projectPath": "C:\\Users\\Eto_Ne_Ananas95\\source\\repos\\diary\\diary\\diary.csproj",
-        "packagesPath": "C:\\Users\\Eto_Ne_Ananas95\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eto_Ne_Ananas95\\source\\repos\\diary\\diary\\obj\\",
+        "projectPath": "C:\\Users\\1\\source\\repos\\fourth_practo_c_sharp\\diary\\diary.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\source\\repos\\fourth_practo_c_sharp\\diary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eto_Ne_Ananas95\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
