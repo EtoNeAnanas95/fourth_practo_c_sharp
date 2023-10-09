@@ -14,15 +14,15 @@ namespace diary
         // Если ничего не указано, ставим пустые поля
         public Note() 
         {
-            this.name = null;
-            this.description = null;
+            this.name = "отсутствует";
+            this.description = "отсутствует";
         }
 
         // Если указано только имя, ставим пустое поле для описания и устанавливаем имя
         public Note(string name) 
         {
             this.name = name;
-            this.description = null;
+            this.description = "отсутствует";
         }
 
         // Если указано оба поля, то устанавливаем их
